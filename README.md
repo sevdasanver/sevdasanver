@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there!;I+am+Sevda+Sanver&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there!;I+am+Sevda+Sanver✨&center=true&size=25">
   </a>
 </h1>
 
-🔭 I’m currently learning Python programming language in Women in Tech Academy.
+###🔭 I’m currently learning Python programming language in Women in Tech Academy.
 
 <!--
 **sevdasanver/sevdasanver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
