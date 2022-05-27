@@ -3,6 +3,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Sevda+Sanver.&center=true&size=25">
   </a>
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif=true&size=25">
+    </a>
 </h1>
 
 ✨ I am pursuing my master's degree at University of Pittsburgh.
@@ -21,9 +23,11 @@
 
 </p>
 
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+ 
 
 <!--
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Sevda+Sanver&center=true&size=25">
