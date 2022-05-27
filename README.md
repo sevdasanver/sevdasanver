@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Sevda+Sanver&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Sevda+Sanver.&center=true&size=25">
   </a>
 </h1>
 
 ✨ I am currently pursuing my master's degree at University of Pittsburgh.
 
- ⚡ I am learning Python, Matlab, R and SQL. 
+ ⚡ I am learning Python, Matlab, R and SQL. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
  🔭 I am in the <a href="https://sisterslab.co/">SistersLab</a> community's Women in Tech Academy.<br>
 
@@ -21,7 +21,7 @@
 
 </p>
 
-
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <!--
 <h1 align="center">
