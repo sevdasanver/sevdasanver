@@ -3,10 +3,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;I+am+Sevda+Sanver.&center=true&size=25">
   </a>
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif=true&size=25">
-    </a>
+  
 </h1>
 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+ 
 ✨ I am pursuing my master's degree at University of Pittsburgh.
 
  ⚡ I am currently learning Python, Matlab, R and SQL. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
