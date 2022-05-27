@@ -8,7 +8,6 @@
 
  🔭 I'm in the <a href="https://sisterslab.co/">SistersLab</a> community.<br>
 
-- 📫 How to reach me:
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
