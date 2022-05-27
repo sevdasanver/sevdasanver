@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-✨ I’m currently learning Python programming language in Women in Tech Academy.
+✨ I am pursuing my master's degree at University of Pittsburgh.
+
+ ⚡ I’m currently learning Python programming language in Women in Tech Academy.
 
  🔭 I'm in the <a href="https://sisterslab.co/">SistersLab</a> community.<br>
 
