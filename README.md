@@ -14,7 +14,7 @@
 
  🔭 I am in the <a href="https://sisterslab.co/">SistersLab</a> community's Women in Tech Academy.<br>
 
- 📫 You can reach me from: **sevdasanver@hotmail.com**
+ 📫 Reach me: **sevdasanver@hotmail.com**
  
 <p align="center">
 <h3 align="left">Connect with me:</h3>
