@@ -6,6 +6,7 @@
   
 </h1>
 
+---
  
 ✨ I am pursuing my master's degree at University of Pittsburgh.
 
@@ -24,9 +25,7 @@
   
 ---
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-
 </p>
-
  <p align="center"> 
   Visitor count<br>
    <img src="https://profile-counter.glitch.me/sevdasanver/count.svg" />
