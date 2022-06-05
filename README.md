@@ -24,7 +24,10 @@
 
 </p>
 
- 
+ <p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/sevdasanver/count.svg" />
+</p>
 
 <!--
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
