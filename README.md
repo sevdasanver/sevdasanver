@@ -8,13 +8,10 @@
 
 ---
  
-✨ I am pursuing my master's degree at University of Pittsburgh.
+✨ I am currently learning HTML, CSS, JavaScript, Python, and SQL.⚡ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
- ⚡ I am currently learning Python, Matlab, Qlik Sense and SQL. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
- 🔭 I am in the <a href="https://sisterslab.co/">SistersLab</a> community's Women in Tech Academy.<br>
-
- 📫 Reach me: **sevdasanver@hotmail.com**
+ 📫 Reach me: **sevdasanver@gmail.com**
  
 <p align="center">
 <h3 align="left">Connect with me:</h3>
